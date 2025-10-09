@@ -6,12 +6,6 @@
 
 ---
 
-## ✨ Key Features
-- ⚡ **Unmatched Speed** – Optimized execution for peak performance.
-- 🔒 **Secure & Reliable** – Stability and safety at the core.
-
----
-
 <p align="center">
   <em>Get Good. Get Aetheris.</em>
 </p>
